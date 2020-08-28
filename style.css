@@ -1,0 +1,20 @@
+section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 800px;
+    margin: auto;
+    
+}
+h1{
+    margin: 96px auto;
+    
+}
+h3,
+p{
+    justify-content: center;
+    text-align: left;
+    width: 30%;
+    line-height: 2;
+}
