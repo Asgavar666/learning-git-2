@@ -9,12 +9,21 @@ section{
 }
 h1{
     margin: 96px auto;
+    font-weight: bold;
     
 }
+
 h3,
 p{
     justify-content: center;
     text-align: left;
     width: 30%;
     line-height: 2;
+}
+p{
+    font-style: italic;
+    padding: 10px;
+    border: 2px solid black;
+    border-radius: 10%;
+    box-shadow: 10px 10px 8px;
 }
