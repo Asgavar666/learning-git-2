@@ -30,3 +30,18 @@ p{
     border-radius: 10%;
     box-shadow: 10px 10px 8px;
 }
+.more{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.more p,
+.more a{
+    font-style: normal;
+    width: 100%;
+    border: none;
+    box-shadow: none;
+    text-align: center;
+    margin: 10px auto;
+}
